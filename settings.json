@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "imnotacatmeow.aternos.me
-",
+    "ip": "imnotacatmeow.aternos.me",
     "port": 39746,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
