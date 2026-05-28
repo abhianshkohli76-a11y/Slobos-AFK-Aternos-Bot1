@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "https://DevilsFakePlay.aternos.me",
     "port": 27586,
-    "version": "",
+    "version": "40809",
     "try-creative": false
   },
   "position": {
