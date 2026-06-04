@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "proplayer-dVDo.aternos.me",
-    "port": 61272,
+    "port":61272,
     "version": "",
     "try-creative": false
   },
